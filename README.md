@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-keithdanielson.com-4B6FA2?style=for-the-badge&logoColor=white&labelColor=1F1F1F)](https://keithdanielson.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keithdanielson)
 
 </div>
 
