@@ -12,6 +12,7 @@
 Full stack developer @ CACI since 2021  <br>
 Computer Science graduate from Colorado School of Mines <br>
 Currently living in Colorado  <br>
+At the moment, I'm working on learning GoLang.
 </div>
 
 ## Stuff I know
