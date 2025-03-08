@@ -9,7 +9,7 @@
 
 </div>
 <div align="center">
-Full stack developer since 2022  <br>
+Full stack developer @ CACI since 2021  <br>
 Computer Science graduate from Colorado School of Mines <br>
 Currently living in Colorado  <br>
 </div>
